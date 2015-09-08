@@ -1,0 +1,16 @@
+﻿Dans un fichier nommé comme suit : Nom-Prenom.php, chaque fonction s'appellera fun_1, fun_2, etc.
+a.belloundja@gmail.com
+
+1) ecrire une fonction qui prend un numero de fonction, un autre argument et qui appelle la fonction correspondante.
+
+
+2) ecrire une fonction qui prend en parametre une chaine et affiche "Hello " suivi de la chaine
+3) ecrire une fonction qui prend en parametre une chaine et affiche "Hello {chaine} 1" à "Hello {chaine} 10", à raison d'un par ligne.
+4) ecrire une fonction qui prend en parametre un nombre et qui renvoie son carré
+5) ecrire une fonction qui prend en parametre un nombre et qui renvoie la date qui est ce nombre de jour apres le 1/1/1970
+
+
+6) ecrire une fonction qui prend en parametre une date au format (jj/mm/aaaa) et qui renvoie le nom du jour de la semaine
+7) ecrire une fonction qui prend les parametres d'url et qui les passe à la fonction 1)
+8) ecrire une fonction qui prend un nombre N en parametre et qui dessine une colonne de N cases en HTML Table, en alternant case blanche et noire.
+9) ecrire une fonction qui prend un nombre N en parametre et qui dessine un damier en HTML Table, de N cases de coté.
